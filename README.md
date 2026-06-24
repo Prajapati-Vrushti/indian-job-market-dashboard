@@ -1,22 +1,28 @@
 # Indian Job Market Dashboard
 
-This project presents an interactive Tableau dashboard that analyzes hiring trends across the Indian job market. The dashboard provides insights into job availability, hiring locations, leading recruiters, experience-level demand, salary patterns, and the most sought-after job roles.
+An interactive Tableau dashboard designed to explore hiring trends across the Indian job market. The dashboard provides insights into job opportunities, top hiring companies, leading locations, experience-level demand, salary patterns, and the most in-demand job roles.
 
-By transforming raw job posting data into meaningful visualizations, the dashboard helps job seekers, students, recruiters, and analysts understand current market trends and make informed career decisions.
+The project transforms raw job posting data into meaningful visualizations, helping students, job seekers, recruiters, and analysts better understand current market trends and make informed decisions.
 
-## Features
-- Overview of total job postings and hiring companies
-- Top hiring locations across India
-- Experience-level distribution of job openings
-- Most in-demand job roles
-- Top hiring companies
-- Salary vs. experience analysis
+## Key Features
+- Job Market Overview
+- Top Hiring Locations
+- Experience Level Distribution
+- Top Hiring Companies
+- Most In-Demand Job Roles
+- Salary vs Experience Analysis
 
 ## Tools Used
 - Tableau
 - Microsoft Excel
 - Data Cleaning
 - Data Visualization
+
+## Live Dashboard
+🔗 [Indian Job Market Dashboard](https://public.tableau.com/views/IndianJonMarketDashboard_/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Dataset
+📊 Cleaned dataset used for dashboard creation is included in this repository.
 
 ## Dashboard Preview
 
