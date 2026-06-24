@@ -21,10 +21,7 @@ The project transforms raw job posting data into meaningful visualizations, help
 ## Live Dashboard
 🔗 [Indian Job Market Dashboard](https://public.tableau.com/views/IndianJonMarketDashboard_/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Dataset
-📊 Cleaned dataset used for dashboard creation is included in this repository.
 
-## Dashboard Preview
 
-![Dashboard](dashboard.png)
+
 
